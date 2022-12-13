@@ -16,6 +16,7 @@ name: 57.2.3. [TC-I-2.3] Secondary functionality with server as DUT
 
 PICS:
     - I.S
+    - I.S.C40.Rsp
 
 config:
     nodeId: 0x12344321
